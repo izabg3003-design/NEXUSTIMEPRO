@@ -1,0 +1,7 @@
+{
+  "name": "versão final testada",
+  "description": "",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
